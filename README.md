@@ -68,7 +68,7 @@
   <img width="14" />
 
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://iconlogovector.com/uploads/images/2024/09/lg-66d961335f8b5-Microsoft-Azure.webp" height="40" alt="mysql logo"  />
   <img width="14" />
  
 </div>
