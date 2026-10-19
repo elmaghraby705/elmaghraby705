@@ -27,7 +27,7 @@
 ###
 <br>
 
-<h3 align="left">- 👀 I’m interested in Web Development.<br>- 🌱 I’m currently learning Full stack developing.<br>- 🙋‍♂️ I’m looking to collaborate on Web Development.<br>- 💞️Love to help everyone just ask dont be shy.<br>- 🖥️Besides Coding iam Network Engineer /Sys Admin<br>- 🎮Fun fact about me iam A Gamer</h3>
+<h3 align="left">- 👀 Senior IT Infrastructure & Operations Professional.<br>- 🌱 I’m currently learning Cloud Computing.<br>- 🙋‍♂️ I’m looking to collaborate on Networking.<br>- 💞️Love to help everyone just ask dont be shy.<br>- 🖥️Besides Networking i Coding Python<br>- 🎮Fun fact about me iam A Gamer</h3>
 
 ###
 
