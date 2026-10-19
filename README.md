@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">About Me:  <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="40px" height="40px"> </h3>
+<h3 align="left">About Me:  <img src="[https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif](https://media1.tenor.com/m/mSOsAHAGUd0AAAAd/s2s-drake.gif)" width="40px" height="40px"> </h3>
 
 ###
 
