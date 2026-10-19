@@ -55,9 +55,9 @@
   <img width="14" />
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0182a5cd-bef4-4ef8-b980-3fb20327f47e/d5t16np-ebddcf28-bbea-49f8-bcb8-b0f8bad442c5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8wMTgyYTVjZC1iZWY0LTRlZjgtYjk4MC0zZmIyMDMyN2Y0N2UvZDV0MTZucC1lYmRkY2YyOC1iYmVhLTQ5ZjgtYmNiOC1iMGY4YmFkNDQyYzUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.omuPcIxQZGUFxqo7IF9AkKZWAzRsQCzOXXPx53m8A-E" height="40" alt="UBUNTU"  />
   <img width="14" />
- >
+ 
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://playroom-cloudsec.com/assets/images/bash.png" height="40" alt="php logo"  />
   <img width="14" />
  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" height="40" alt="vscode logo"  />
  
