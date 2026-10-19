@@ -27,13 +27,13 @@
 ###
 <br>
 
-<h3 align="left">- 👀 Senior IT Infrastructure & Operations Professional.<br>- 🌱 I’m currently learning Cloud Computing.<br>- 🙋‍♂️ I’m looking to collaborate on Networking.<br>- 💞️Love to help everyone just ask dont be shy.<br>- 🖥️Besides Networking i Coding Python<br>- 🎮Fun fact about me iam A Gamer</h3>
+<h3 align="left">- 👀 Senior IT Infrastructure & Operations Professional.<br>- 🌱 I’m currently learning Cloud Computing.<br>- 🙋‍♂️ I’m looking to collaborate on Networking.<br>- 💞️Love to help everyone just ask dont be shy.<br>- 🖥️Besides Networking i Coding Python<br>- 🎮Fun fact about me iam A Gamer  <br>-🛠️ Core Technical Expertise & Skills</h3>
 
 
-### 🛠️ Core Technical Expertise & Skills
+ 
 
 * **Cloud Computing:** Microsoft Azure (AZ-900 & AZ-104), Hybrid Cloud, Azure AD / Entra ID, Resource Optimization.
-* **Virtualization:** VMware vSphere, VMware ESXi, Hypervisor Management, High Availability Solutions.
+* **Virtualization:** VMware vSphere, VMware ESXi, Hypervisor Management.
 * **Networking:** Cisco, MikroTik, TCP/IP, DNS, DHCP, VLAN, Structured Cabling.
 * **Automation & Tools:** PowerShell Scripting, Azure CLI, ARM Templates.
 
