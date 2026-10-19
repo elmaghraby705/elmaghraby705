@@ -49,7 +49,7 @@
   <img width="14" />
   <img src="https://media.licdn.com/dms/image/v2/D4E22AQEgF4j8waVWBw/feedshare-shrink_1280/B4EZq7i0kZIQAs-/0/1764083059464?e=2147483647&v=beta&t=ecL28arez-wV9WDNo3am8BelYMAZVdKZnGZoeWu-FHM" height="50"alt="cisco logo"  />
   <img width="14" />
-  <img src="https://www.insoftservices.com/de-de/blogs/microsoft-certifications-the-what-where-how-and-why" height="40" alt="MCSA" />
+  <img src="[https://www.insoftservices.com/de-de/blogs/microsoft-certifications-the-what-where-how-and-why](https://www.asg.co.za/wp-content/uploads/2021/01/mcsa.png)" height="40" alt="MCSA" />
   <img width="14" />
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="40" alt="javascript logo"  />
   <img width="14" />
