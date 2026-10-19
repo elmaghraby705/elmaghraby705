@@ -29,10 +29,6 @@
 
 <h3 align="left">- 👀 Senior IT Infrastructure & Operations Professional.<br>- 🌱 I’m currently learning Cloud Computing.<br>- 🙋‍♂️ I’m looking to collaborate on Networking.<br>- 💞️Love to help everyone just ask dont be shy.<br>- 🖥️Besides Networking i Coding Python<br>- 🎮Fun fact about me iam A Gamer</h3>
 
-###
-Experienced IT Professional with 15+ years of proven expertise in managing and optimizing complex enterprise IT environments, network infrastructure, and critical virtualization platforms. Currently expanding my horizons into **Cloud Computing** and **Cloud Infrastructure Automation (IaC)**.
-
----
 
 ### 🛠️ Core Technical Expertise & Skills
 
@@ -104,7 +100,7 @@ Experienced IT Professional with 15+ years of proven expertise in managing and o
 <br clear="both">
 
 <div align="left">
- ### 🤝 Connect with Me
+ 
   <a href="https://www.linkedin.com/in/m-elmaghraby1/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" height="60" alt="linkedin logo"  />
   </a>
