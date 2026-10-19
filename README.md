@@ -22,7 +22,7 @@
 
 ###
 
-<img align="right" height="300"  src="https://media1.tenor.com/m/mSOsAHAGUd0AAAAd/s2s-drake.gif"  />
+<img align="right" height="300"  src="https://media.licdn.com/dms/image/v2/D4D12AQFAEA4kuPV1lg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1721197464294?e=2147483647&v=beta&t=0lCjairR8V511EyDwjfgNCsL9ILUk6wcgnNsTRKaYkU"  />
 
 ###
 <br>
