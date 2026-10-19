@@ -55,7 +55,7 @@
   <img width="14" />
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0182a5cd-bef4-4ef8-b980-3fb20327f47e/d5t16np-ebddcf28-bbea-49f8-bcb8-b0f8bad442c5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8wMTgyYTVjZC1iZWY0LTRlZjgtYjk4MC0zZmIyMDMyN2Y0N2UvZDV0MTZucC1lYmRkY2YyOC1iYmVhLTQ5ZjgtYmNiOC1iMGY4YmFkNDQyYzUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.omuPcIxQZGUFxqo7IF9AkKZWAzRsQCzOXXPx53m8A-E" height="40" alt="UBUNTU"  />
   <img width="14" />
-  <img src="https://private-user-images.githubusercontent.com/74038190/238200433-3fb2cdf6-8920-462e-87a4-95af376418aa.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2MzcwNDMsIm5iZiI6MTcxMTYzNjc0MywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MzMtM2ZiMmNkZjYtODkyMC00NjJlLTg3YTQtOTVhZjM3NjQxOGFhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI4VDE0MzkwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk4YzM2ZjZjMjZmNTkxZDE2YmEwYWQyMWJmYWRlZDAxMTA1OWJjODlkNzRlZThhZGIwNzY0YjNhODBkMTk1YjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.cXpKHe8VzaTpCDHOeti3JyVxgOeH3Wrepbou3TRUqMI" height="60" alt="ubuntu logo"  />
+ >
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="14" />
