@@ -85,7 +85,7 @@
 
 <div align="left">
  
-  <a href="https://www.linkedin.com/in/moustafa-elmaghraby/" target="_blank">
+  <a href="https://www.linkedin.com/in/m-elmaghraby1/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" height="60" alt="linkedin logo"  />
   </a>
  
@@ -94,9 +94,6 @@
   </a>
   
 
- <a href="https://twitter.com/elmaghraby_egy/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="60" height="60" alt="instagram logo"  />
-  </a>
 
 
   <a href="https://www.instagram.com/elmaghraby.eg/" target="_blank">
