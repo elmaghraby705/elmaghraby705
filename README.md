@@ -30,6 +30,26 @@
 <h3 align="left">- 👀 Senior IT Infrastructure & Operations Professional.<br>- 🌱 I’m currently learning Cloud Computing.<br>- 🙋‍♂️ I’m looking to collaborate on Networking.<br>- 💞️Love to help everyone just ask dont be shy.<br>- 🖥️Besides Networking i Coding Python<br>- 🎮Fun fact about me iam A Gamer</h3>
 
 ###
+Experienced IT Professional with 15+ years of proven expertise in managing and optimizing complex enterprise IT environments, network infrastructure, and critical virtualization platforms. Currently expanding my horizons into **Cloud Computing** and **Cloud Infrastructure Automation (IaC)**.
+
+---
+
+### 🛠️ Core Technical Expertise & Skills
+
+* **Cloud Computing:** Microsoft Azure (AZ-900 & AZ-104), Hybrid Cloud, Azure AD / Entra ID, Resource Optimization.
+* **Virtualization:** VMware vSphere, VMware ESXi, Hypervisor Management, High Availability Solutions.
+* **Networking:** Cisco, MikroTik, TCP/IP, DNS, DHCP, VLAN, Structured Cabling.
+* **Automation & Tools:** PowerShell Scripting, Azure CLI, ARM Templates.
+
+---
+
+### 🚀 What I'm Working On
+* ☁️ Designing and deploying secure hybrid cloud lab architectures.
+* 🤖 Automating IT operations using PowerShell and Azure automation tools.
+* 📚 Developing Hands-on Labs for Enterprise IT Infrastructures.
+
+---
+
 
 
 <br>
@@ -84,7 +104,7 @@
 <br clear="both">
 
 <div align="left">
- 
+ ### 🤝 Connect with Me
   <a href="https://www.linkedin.com/in/m-elmaghraby1/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" height="60" alt="linkedin logo"  />
   </a>
@@ -106,58 +126,3 @@
 ###
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--------------------------------------
-
-
-
-
-# Hi there, I'm Moustafa El-Maghraby 👋
-
-### Senior IT Infrastructure & Operations Professional | Cloud Solutions Enthusiast
-
-Experienced IT Professional with 15+ years of proven expertise in managing and optimizing complex enterprise IT environments, network infrastructure, and critical virtualization platforms. Currently expanding my horizons into **Cloud Computing** and **Cloud Infrastructure Automation (IaC)**.
-
----
-
-### 🛠️ Core Technical Expertise & Skills
-
-* **Cloud Computing:** Microsoft Azure (AZ-900 & AZ-104), Hybrid Cloud, Azure AD / Entra ID, Resource Optimization.
-* **Virtualization:** VMware vSphere, VMware ESXi, Hypervisor Management, High Availability Solutions.
-* **Networking:** Cisco, MikroTik, TCP/IP, DNS, DHCP, VLAN, Structured Cabling.
-* **Automation & Tools:** PowerShell Scripting, Azure CLI, ARM Templates.
-
----
-
-### 🚀 What I'm Working On
-* ☁️ Designing and deploying secure hybrid cloud lab architectures.
-* 🤖 Automating IT operations using PowerShell and Azure automation tools.
-* 📚 Developing Hands-on Labs for Enterprise IT Infrastructures.
-
----
-
-### 🤝 Connect with Me
-* 💼 [LinkedIn](https://linkedin.com/in/m-elmaghraby1)
-* 📧 moustafa.elmaghraby@zohomail.com
