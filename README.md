@@ -32,7 +32,7 @@
 
  
 
-* **Cloud Computing:** Microsoft Azure (AZ-900 & AZ-104), Hybrid Cloud, Azure AD / Entra ID, Resource Optimization.
+* **Cloud Computing:** Microsoft Azure (AZ-900 & AZ-104), Hybrid Cloud.
 * **Virtualization:** VMware vSphere, VMware ESXi, Hypervisor Management.
 * **Networking:** Cisco, MikroTik, TCP/IP, DNS, DHCP, VLAN, Structured Cabling.
 * **Automation & Tools:** PowerShell Scripting, Azure CLI, ARM Templates.
