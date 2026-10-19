@@ -51,7 +51,7 @@
   <img width="14" />
   <img src="https://www.asg.co.za/wp-content/uploads/2021/01/mcsa.png" height="40" alt="MCSA" />
   <img width="14" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="40" alt="javascript logo"  />
+  <img src="https://miro.medium.com/v2/resize:fit:720/0*PtSMCZs1ay7WF2t9.gif" height="40" alt="RedHat logo"  />
   <img width="14" />
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" height="40" alt="vscode logo"  />
   <img width="14" />
