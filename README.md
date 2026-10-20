@@ -27,7 +27,7 @@
 ###
 <br>
 
-<h3 align="left">- 👀 Senior IT Infrastructure & Operations Professional.<br>- 🌱 I’m currently learning Cloud Computing.<br>- 🙋‍♂️ I’m looking to collaborate on Networking.<br>- 💞️Love to help everyone just ask dont be shy.<br>- 🖥️Besides Networking i Coding Python<br>- 🎮Fun fact about me iam A Gamer  <br>-🛠️ Core Technical Expertise & Skills</h3>
+<h3 align="left">- 👀IT Infrastructure & Operations Professional.<br>- 🌱 I’m currently learning Cloud Computing.<br>- 🙋‍♂️ I’m looking to collaborate on Networking.<br>- 💞️Love to help everyone just ask dont be shy.<br>- 🖥️Besides Networking i Coding Python<br>- 🎮Fun fact about me iam A Gamer  <br>-🛠️ Core Technical Expertise & Skills</h3>
 
 
  
